@@ -1,2 +1,4 @@
-# indice_invertido_motor_de_busca
-Trabalho pratico 1
+# Search_engin
+C language
+
+Search and counts words on lines of a text
